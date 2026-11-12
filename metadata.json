@@ -1,0 +1,6 @@
+{
+  "name": "SAYAN AI LAB",
+  "description": "Explore. Create. Transform. Premium AI-powered online tools platform for image background removal, compression, resizing, format conversion, and PDF workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
